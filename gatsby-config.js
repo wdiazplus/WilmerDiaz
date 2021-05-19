@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `La Parladería de Wilmer`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Wilmer Diaz`,
+      summary: `,un Matemático 👨‍💻 que ahora hace el papel de desarrollador de Software 💚 y además le encanta estudiar y enseñar 🤖`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `wdiazplus`,
     },
   },
   plugins: [
